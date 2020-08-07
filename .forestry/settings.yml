@@ -7,10 +7,10 @@ sections:
 - type: heading
   label: Content
 - type: jekyll-posts
-  label: Posts
+  label: Events
   create: all
   templates:
-  - post
+  - event
 - type: jekyll-pages
   label: Pages
   create: all
